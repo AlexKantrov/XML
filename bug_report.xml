@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bug_b_1>
+<bug_1>
+
+  <BugName>Application crashes upon clicking the SAVE button while creating a new user</BugName>
+  <BugID>It will be automatically created by the BUG Tracking tool once you save this bug</BugID>
+  <AreaPath>USERS menu -> New Users</AreaPath>
+  <BuildNumber>Version Number 5.0.1</BuildNumber>
+  <Severity>HIGH (High/Medium/Low)</Severity>
+  <Priority>HIGH (High/Medium/Low)</Priority>
+  <Assignedto>Developer-X</Assignedto>
+  <ReportedBy>Your Name</ReportedBy>
+  <ReportedOn>Date</ReportedOn>
+</bug_1>
